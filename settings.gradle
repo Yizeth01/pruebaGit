@@ -1,4 +1,0 @@
-include ':app:prueba'
-include ':app:mylibrary'
-include ':app'
-rootProject.name = "pruebaGit"
